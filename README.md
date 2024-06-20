@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, This is Arslan</h1>
 <h3 align="center">A passionate Data Scientist</h3>
-<img align="right" alt="Data" width = "400" scr = "https://i.gifer.com/origin/1e/1efebdb3fc3ec45938a06112d1b13feb_w200.gif">
+<img align="right" alt="Data" width = "400" scr = "https://i.gifer.com/75ez.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arslanrude&label=Profile%20views&color=0e75b6&style=flat" alt="arslanrude" /> </p>
 
