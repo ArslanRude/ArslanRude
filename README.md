@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, This is Arslan</h1>
 <h3 align="center">A passionate Data Scientist</h3>
-<!-- <img align="right" alt="Data" width = "400" scr = ""> -->
-<iframe src="https://gifer.com/embed/75ez" width=480 height=360.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arslanrude&label=Profile%20views&color=0e75b6&style=flat" alt="arslanrude" /> </p>
+<img align="right" alt="Data" width = "400" scr = "https://i.gifer.com/75ez.gif">
 
 - 🌱 I’m currently learning **Scikit-learn,TensorFlow,Keras**
 
