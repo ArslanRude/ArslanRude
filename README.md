@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, This is Arslan</h1>
 <h3 align="center">A passionate Data Scientist</h3>
-<img align="right" alt="Data" width = "400" scr = "https://i.gifer.com/75ez.gif">
+<img align="right" alt="Data" width = "400" scr = "https://www.google.com/imgres?q=animated%20gif%20data&imgurl=https%3A%2F%2Fi.gifer.com%2Forigin%2F1e%2F1efebdb3fc3ec45938a06112d1b13feb_w200.gif&imgrefurl=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fdata&docid=_CHCGveEIDboiM&tbnid=X-iHbnu9nSM_GM&vet=12ahUKEwiu6dXsxuqGAxVTAtsEHczVAu0QM3oECEoQAA..i&w=200&h=150&hcb=2&ved=2ahUKEwiu6dXsxuqGAxVTAtsEHczVAu0QM3oECEoQAA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arslanrude&label=Profile%20views&color=0e75b6&style=flat" alt="arslanrude" /> </p>
 
