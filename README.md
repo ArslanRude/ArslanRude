@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, This is Arslan</h1>
 <h3 align="center">A passionate Data Scientist</h3>
-<img align="right" alt="Data" width = "400" scr = "![image](https://github.com/ArslanRude/ArslanRude/assets/112697523/3280dae6-8ea1-4140-84c5-3abbbc1c939f)
-">
+<img scr = "" align="right" alt="Data" width = "400" >
 
 - 🌱 I’m currently learning **Scikit-learn,TensorFlow,Keras**
 
