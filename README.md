@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Scientist</h3>
 <img scr = "" align="right" alt="Data" width = "400" >
 
-- 🌱 I’m currently learning **Scikit-learn,TensorFlow,Keras**
+- 🌱 I’m currently learning **GENAI,Rag Applications,Langchain,LangGraph,HuggingFace**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ArslanRude](https://github.com/ArslanRude)
 
